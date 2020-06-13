@@ -4,7 +4,7 @@ A collection of some of my notebooks
 - [Uber Analyis Apr 14](./uber_analysis_apr14)
 
 # Datacamp Notebooks
-These notebooks are project work on [Datacamp](www.datacamp.com)
+These notebooks are project work on [Datacamp](https://datacamp.com/)
 
 - [Exploring 67 years of LEGO](./Datacamp/Exploring%2067%20years%20of%20LEGO)
 - [Case Study - Summer Olympics](./Datacamp/Olympics)
