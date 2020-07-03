@@ -11,4 +11,5 @@ These notebooks are project work on [Datacamp](https://datacamp.com/)
 - [Dr. Semmelweis and the Discovery of Handwashing](./Datacamp/Discovery%20of%20Handwashing)
 - [Analyze International Debt Statistics](./Datacamp/Analyze%20International%20Debt%20Statistics)
 - [TV, Halftime Shows, and the Big Game](./Datacamp/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
+- [Analyzing Rhode Island Police Traffic Stop Activity](./Datacamp/Analyzing%20Rhode%20Island%20Police%20Traffic%20Stop%20Activity)
 
