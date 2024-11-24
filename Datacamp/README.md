@@ -11,3 +11,4 @@ These notebooks are project work on [Datacamp](https://datacamp.com/)
 - [Exploring the Evolution of Linux](./Exploring%20the%20Evolution%20of%20Linux)
 - [Investigating Netflix Movies](./Investigating%20Netflix%20Movies/)#
 - [Exploring NYC Public School Test Result Scores](./Exploring%20NYC%20Public%20School%20Test%20Result%20Scores/)
+- [Exploring Airbnb Market Trends](./Exploring%20Airbnb%20Market%20Trends/)
