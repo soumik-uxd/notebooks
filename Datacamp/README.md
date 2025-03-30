@@ -9,6 +9,6 @@ These notebooks are project work on [Datacamp](https://datacamp.com/)
 - [Analyzing Rhode Island Police Traffic Stop Activity](./Analyzing%20Rhode%20Island%20Police%20Traffic%20Stop%20Activity)
 - [Exploring the Bitcoin Cryptocurrency Market](./Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)
 - [Exploring the Evolution of Linux](./Exploring%20the%20Evolution%20of%20Linux)
-- [Investigating Netflix Movies](./Investigating%20Netflix%20Movies/)#
+- [Investigating Netflix Movies](./Investigating%20Netflix%20Movies/)
 - [Exploring NYC Public School Test Result Scores](./Exploring%20NYC%20Public%20School%20Test%20Result%20Scores/)
 - [Exploring Airbnb Market Trends](./Exploring%20Airbnb%20Market%20Trends/)
